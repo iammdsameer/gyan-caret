@@ -1,0 +1,5 @@
+@import "~antd/dist/antd.css";
+#player {
+  width: 824px;
+  height: 432px;
+}
