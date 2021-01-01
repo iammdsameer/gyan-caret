@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AACA,QACE,WAAY,CACZ,YACF","file":"main.d91ef87f.chunk.css","sourcesContent":["@import \"~antd/dist/antd.css\";\r\n#player {\r\n  width: 824px;\r\n  height: 432px;\r\n}\r\n"]}
